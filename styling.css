@@ -3,7 +3,7 @@ html, body{
     margin: 0;
     box-sizing: border-box;
     padding: 0;
-    background-image: linear-gradient(black,black,#110f25ff,rgb(10, 10, 10));
+    background-image: linear-gradient(black,black,rgb(17, 15, 37),rgb(10, 10, 10));
     /* background-color: rgb(1, 20, 40); */
     }
     header{
